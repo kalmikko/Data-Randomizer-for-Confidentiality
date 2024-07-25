@@ -1,5 +1,5 @@
 # Randomize Data for Confidentiality
-This script randomizes numerical and boolean values in a dataset while preserving the original data structure and format. It supports CSV, XLSX, and JSON file formats, ensuring that the randomized output file retains the same format as the input file. The primary motivation for this script is to modify the data for confidentiality reasons.
+This script randomizes numerical and boolean values in a dataset while preserving the original data structure and format. It supports CSV, XLSX, and JSON file formats, ensuring that the randomized output file retains the same format as the input file. Can be used on sensitive data you want to perform data analysis on using not locally run AI tools.
 
 ## Features
 - **Data Randomization**: Randomizes integer, float, and boolean data types while keeping strings and unsupported types unchanged.
