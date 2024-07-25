@@ -9,6 +9,8 @@ This script randomizes numerical and boolean values in a dataset while preservin
 1. Place the script in a directory with the data file to be processed.
 2. Specify the path to the input data file in the `input_file` variable.
 3. Run the script to generate a randomized data file with a prefix `randomized_` added to the original file name.
+4. Generate a data analysis script using AI tools on the randomized data.
+5. Use the generated script on your local computer on the original data, maintaining data confidentiality.
 
 ## Example Usage (Python)
 ```
