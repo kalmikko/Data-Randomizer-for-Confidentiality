@@ -11,11 +11,10 @@ This script randomizes numerical and boolean values in a dataset while preservin
 3. Run the script to generate a randomized data file with a prefix `randomized_` added to the original file name.
 
 ## Example Usage (Python)
-
+```
 input_file = "/path/to/your/data_file.xlsx"  # Replace with your file path
-
 randomize_data(input_file)
-
+```
 ## Known Issues
 1. Floating Point Inaccuracy:
 The randomization of float values may result in excess decimal places due to floating-point precision limits. This can lead to inaccuracies and an unintended increase in the number of decimal places in the output data.
