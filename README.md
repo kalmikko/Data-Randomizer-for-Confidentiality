@@ -12,6 +12,8 @@ This script randomizes numerical and boolean values in a dataset while preservin
 4. Generate a data analysis script using AI tools on the randomized data.
 5. Use the generated script on your local computer on the original data, maintaining data confidentiality.
 
+![Image](https://github.com/user-attachments/assets/5d77a998-ee3b-40be-a587-7a5bae013b4a)
+
 ## Example Usage (Python)
 ```
 input_file = "/path/to/your/data_file.xlsx"  # Replace with your file path
